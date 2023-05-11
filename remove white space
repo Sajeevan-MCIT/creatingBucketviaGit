@@ -1,0 +1,5 @@
+#on git
+
+1. nano credentials.json
+2. copy and paste the json to the file AND SAVE
+3. cat credentials.json | tr -s '\n' ' '
